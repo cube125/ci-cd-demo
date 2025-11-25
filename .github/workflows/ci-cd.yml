@@ -38,4 +38,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: your-dockerhub-username/ci-cd-demo:latest
+          tags: cube125cube/ci-cd-demo:latest
